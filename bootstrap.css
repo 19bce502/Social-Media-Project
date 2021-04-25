@@ -132,6 +132,8 @@ input[type="submit"] {
   -webkit-appearance: button;
   cursor: pointer;
   background-color: black;
+color:white;
+
 }
 button[disabled],
 html input[disabled] {
